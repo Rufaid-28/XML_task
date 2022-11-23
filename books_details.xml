@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOOKS>
+
+<intersting_stories>
+<name>War and Peace</name>
+<author>Leo Tolstoy</author>
+<price>1000 Rs</price>
+<des> that mixes fictional narrative with chapters on history and philosophy.</des>
+</intersting_stories>
+
+<Great_story>
+<name>Great Expectations</name>
+<author>Charles Dicken</author>
+<price>1500 Rs</price>
+<des> that mixes fictional narrative with chapters on history and philosophy.</des>
+</Great_story>
+
+</BOOKS>
